@@ -82,3 +82,5 @@ http://ticketit.kordy.info/tickets
 Big thank you for all active people who took from their time to give their feedback and suggestions, they helped a lot to improve Ticketit for all of us.
 
 https://github.com/thekordy/ticketit/graphs/contributors
+
+edit by vin
